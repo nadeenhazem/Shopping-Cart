@@ -1,0 +1,15 @@
+.Nav-Cart-btn {
+  border-style: none;
+  position: relative;
+}
+.Nav-Cart-btn :nth-child(1) {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+.Nav-Cart-btn :nth-child(2) {
+  height: 1.2rem;
+  width: 1.2rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
